@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'GetSubsAPIDev'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD2CE76BFF6240D186585056835B803F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_031233737222435C8ED1CBF6F7C9D409 }}
           package: .
